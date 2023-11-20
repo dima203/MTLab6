@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="songs_titles">
+        <item>System Of A Down - Toxicity</item>
+        <item>Rihanna feat Jay-Z - Umbrella</item>
+        <item>Evanescence - Bring Me To Life</item>
+        <item>Linkin Park - Numb</item>
+    </string-array>
+</resources>

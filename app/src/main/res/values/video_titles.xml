@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <string-array name="video_titles">
+            <item>Видео про звёзды</item>
+            <item>Видео про кенгуру</item>
+            <!-- Добавьте заголовки для других видео, если необходимо -->
+        </string-array>
+    </resources>

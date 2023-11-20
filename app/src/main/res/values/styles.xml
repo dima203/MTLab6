@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle">
+        <item name="android:background">#D41A1F</item> <!-- Цвет фона кнопки -->
+        <item name="android:textColor">#EEF0F2</item> <!-- Цвет текста на кнопке -->
+        <item name="android:textSize">16sp</item> <!-- Размер текста на кнопке -->
+        <item name="android:layout_marginTop">16dp</item> <!-- Отступ сверху -->
+        <item name="android:layout_marginBottom">16dp</item> <!-- Отступ снизу -->
+    </style>
+</resources>
